@@ -1,0 +1,33 @@
+.btn-heading
+{
+    width: 100%;
+    font-size: 40px;
+    box-shadow: 5px 50px 40px rgb(146, 223, 233);
+}
+
+button
+{
+    float: none;
+    border-radius: 20px;
+    color: rgb(228, 228, 247);
+    padding: 10px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    background-color: rgb(126, 179, 228);
+    color: mintcream;
+    width: 100%;
+    bottom: 0;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas
+{
+    border:5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px royalblue;
+    margin-top: 150px;
+}
